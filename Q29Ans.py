@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod
 import math
 from typing import List
 
+input("Виконав Іванченко Даніїл, КІб-1-23-4.0д")
 
 class IDrawable(ABC):
     """Формальний «інтерфейс» для всього, що можна намалювати."""
